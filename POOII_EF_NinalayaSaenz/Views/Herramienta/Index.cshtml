@@ -1,0 +1,71 @@
+﻿@model IEnumerable<Dominio.Entidad.Negocios.Entidad.HerraCategoria>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Lista de Herramientas</h2>
+
+<div>
+    @using (Html.BeginForm())
+    {
+        <em>Categoria: </em>
+        @Html.DropDownList("idcat", ViewBag.categorias as SelectList, new { @class = "form-select" })
+        <button class="btn btn-success mt-2">Consultar</button>
+    }
+</div>
+
+<p>
+    @Html.ActionLink("Agregar", "Agregar", null, new { @class = "btn btn-primary mt-2" })
+</p>
+<table class="table table-dark table-hover">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.IdHer)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DesHer)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MedHer)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NomCategoria)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PreUni)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Stock)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.IdHer)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DesHer)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MedHer)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NomCategoria)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PreUni)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Stock)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Editar", new { item.IdHer }, new { @class = "btn btn-warning" }) |
+            @Html.ActionLink("Borrar", "Borrar", new { item.IdHer }, new { @class = "btn btn-danger", onclick = $"return confirm('¿Seguro de borrar este registro(COD {item.IdHer})?')" })
+        </td>
+    </tr>
+}
+
+</table>

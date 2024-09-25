@@ -1,0 +1,12 @@
+D:\Cibertec\Material de estudio\CICLO IV\POO II\Semanas\Examenes\CF\POOII_EF_NinalayaSaenz\Dominio.Repositorio\bin\Debug\Dominio.Repositorio.dll
+D:\Cibertec\Material de estudio\CICLO IV\POO II\Semanas\Examenes\CF\POOII_EF_NinalayaSaenz\Dominio.Repositorio\bin\Debug\Dominio.Repositorio.pdb
+D:\Cibertec\Material de estudio\CICLO IV\POO II\Semanas\Examenes\CF\POOII_EF_NinalayaSaenz\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.csproj.AssemblyReference.cache
+D:\Cibertec\Material de estudio\CICLO IV\POO II\Semanas\Examenes\CF\POOII_EF_NinalayaSaenz\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.csproj.CoreCompileInputs.cache
+D:\Cibertec\Material de estudio\CICLO IV\POO II\Semanas\Examenes\CF\POOII_EF_NinalayaSaenz\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.dll
+D:\Cibertec\Material de estudio\CICLO IV\POO II\Semanas\Examenes\CF\POOII_EF_NinalayaSaenz\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.pdb
+D:\Cibertec\Material de estudio\CICLO IV\POO II\Semanas\Examenes\CF\LF_POO_II\Dominio.Repositorio\bin\Debug\Dominio.Repositorio.dll
+D:\Cibertec\Material de estudio\CICLO IV\POO II\Semanas\Examenes\CF\LF_POO_II\Dominio.Repositorio\bin\Debug\Dominio.Repositorio.pdb
+D:\Cibertec\Material de estudio\CICLO IV\POO II\Semanas\Examenes\CF\LF_POO_II\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.csproj.AssemblyReference.cache
+D:\Cibertec\Material de estudio\CICLO IV\POO II\Semanas\Examenes\CF\LF_POO_II\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.csproj.CoreCompileInputs.cache
+D:\Cibertec\Material de estudio\CICLO IV\POO II\Semanas\Examenes\CF\LF_POO_II\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.dll
+D:\Cibertec\Material de estudio\CICLO IV\POO II\Semanas\Examenes\CF\LF_POO_II\Dominio.Repositorio\obj\Debug\Dominio.Repositorio.pdb

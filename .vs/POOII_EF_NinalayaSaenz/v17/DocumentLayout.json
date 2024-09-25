@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cibertec\\Material de estudio\\CICLO IV\\POO II\\Semanas\\Examenes\\CF\\LF_POO_II\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C47835F3-A53F-4C79-B545-77F5EDAC13BF}|Dominio.Entidad.Negocios\\Dominio.Entidad.Negocios.csproj|d:\\cibertec\\material de estudio\\ciclo iv\\poo ii\\semanas\\examenes\\cf\\lf_poo_ii\\dominio.entidad.negocios\\entidad\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C47835F3-A53F-4C79-B545-77F5EDAC13BF}|Dominio.Entidad.Negocios\\Dominio.Entidad.Negocios.csproj|solutionrelative:dominio.entidad.negocios\\entidad\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9F6BA8-F54B-4468-9CCF-F607F5BA676D}|POOII_EF_NinalayaSaenz\\POOII_EF_NinalayaSaenz.csproj|d:\\cibertec\\material de estudio\\ciclo iv\\poo ii\\semanas\\examenes\\cf\\lf_poo_ii\\pooii_ef_ninalayasaenz\\controllers\\herramientacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9F6BA8-F54B-4468-9CCF-F607F5BA676D}|POOII_EF_NinalayaSaenz\\POOII_EF_NinalayaSaenz.csproj|solutionrelative:pooii_ef_ninalayasaenz\\controllers\\herramientacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 174,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "D:\\Cibertec\\Material de estudio\\CICLO IV\\POO II\\Semanas\\Examenes\\CF\\LF_POO_II\\Dominio.Entidad.Negocios\\Entidad\\Categoria.cs",
+              "RelativeDocumentMoniker": "Dominio.Entidad.Negocios\\Entidad\\Categoria.cs",
+              "ToolTip": "D:\\Cibertec\\Material de estudio\\CICLO IV\\POO II\\Semanas\\Examenes\\CF\\LF_POO_II\\Dominio.Entidad.Negocios\\Entidad\\Categoria.cs",
+              "RelativeToolTip": "Dominio.Entidad.Negocios\\Entidad\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T17:57:47.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HerramientaController.cs",
+              "DocumentMoniker": "D:\\Cibertec\\Material de estudio\\CICLO IV\\POO II\\Semanas\\Examenes\\CF\\LF_POO_II\\POOII_EF_NinalayaSaenz\\Controllers\\HerramientaController.cs",
+              "RelativeDocumentMoniker": "POOII_EF_NinalayaSaenz\\Controllers\\HerramientaController.cs",
+              "ToolTip": "D:\\Cibertec\\Material de estudio\\CICLO IV\\POO II\\Semanas\\Examenes\\CF\\LF_POO_II\\POOII_EF_NinalayaSaenz\\Controllers\\HerramientaController.cs",
+              "RelativeToolTip": "POOII_EF_NinalayaSaenz\\Controllers\\HerramientaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T06:26:05.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
